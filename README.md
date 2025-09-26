@@ -4,7 +4,7 @@
 > Will not include any I haven't maken.
 
 
-## Japanese Chashu
+## チャーシュー(Japanese Chashu)
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Chashu.jpg">
 
 >First boil pork belly in water with green onions, ginger, and garlic. For 10 cm thick pork, 90 mins.
@@ -15,7 +15,7 @@
 >
 >Roll it before boiling to make the texture that falls apart at the first bite.
 
-## Ramen
+## 拉麺(Ramen)
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Ramen.jpg">
 
 >The prime taste is from salty soup base and Japanese Chashu.
@@ -24,19 +24,21 @@
 >
 >Sesame, fungus, Pickled scallions in ice water, メンマ(I see this in every Ramen in Asahikawa). 鳴門巻き? Doesn't have to, just like a decoration.
 
-## Omelet rice
+## Stir-fried Tomato and Scrambled Eggs
+
+## Omelet Rice
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/omelet-rice-2031329-hero-01-a7e0906fd73b49739f28717d01e6cc33.jpg">
 
 >Tomato sauce to add sour taste for appetizing.
 
-## tom yum goong
+## ต้มยำกุ้ง(Tom Yum Goong)
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/tom-yum-goong-blog.jpg">
 
 >Nam Prik Pao (Thai chili paste) with soup of lemongrass, lime leaves, galangal, and chili pepper.
 >
 >Best mate: prawn.
 
-## laksa
+## 叻沙(Laksa)
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Curry_laksa.jpg">
 
 >IMHO, this is tom yum goong with starch, from potatoes, yams, etc.
@@ -57,7 +59,13 @@
 >
 >I still feel hard to cut (the rice is sticky) with my wide-body knife...
 >
->Add anything you want, cucumber and mustard is the simpliest edible form. 
+>Add anything you want, cucumber and mustard is the simpliest edible form.
+
+## Tomato Beef Stew
+
+## 青椒肉絲(Stir-fried Shredded meat with Green Pepper)
+
+>I love to use shredded beef because of the aroma of beef.
 
 
 ## 茶漬け
@@ -84,21 +92,25 @@
 
 >Xiaozhizhu told me that, Japanese didn't have barbeque meat. They must learn and improved it from Korean barbeque.
 
-## spaghetti
+## Spaghetti
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Spaghetti-with-Meat-Sauce-Recipe-1-1200.jpg">
 
 >Adding oil and salt to enhance the boiling point, otherwise the noodles won't be soft easily. 8 Mins.
 
-## curry
+## Curry Rice
 <img width="130" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/jp-curry.jpg">
 
->I think the key mate for curry is coconut milk.
+>I think the key mate for curry rice is coconut milk.
 >
 >Smart move: when you buy curry paste, it made with pre-cooked ingredients. Add some fresh spices (fresh green pepper, garlic, ginger， etc) to enhance the taste fresher.
 >
 >Hidden Gem: cashew (make fresh cashew paste)!
 
-## pancake
+## Foie Gras
+
+## Butter-fried Matsutake
+
+## Pancake
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/pancake.jpg">
 
 >Every pan has a different thermal conductivity, you should test when is the best time to flip!
