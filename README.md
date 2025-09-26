@@ -25,6 +25,7 @@
 >Sesame, fungus, Pickled scallions in ice water, メンマ(I see this in every Ramen in Asahikawa). 鳴門巻き? Doesn't have to, just like a decoration.
 
 ## Stir-fried Tomato and Scrambled Eggs
+<img width="140" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Fanqiechaodan.jpg">
 
 ## Omelet Rice
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/omelet-rice-2031329-hero-01-a7e0906fd73b49739f28717d01e6cc33.jpg">
@@ -62,8 +63,10 @@
 >Add anything you want, cucumber and mustard is the simpliest edible form.
 
 ## Tomato Beef Stew
+<img width="130" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Tomato-Vegetable-Beef-Stew-1-scaled.jpg">
 
 ## 青椒肉絲(Stir-fried Shredded meat with Green Pepper)
+<img width="130" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Qingjiaorousi.jpg">
 
 >I love to use shredded beef because of the aroma of beef.
 
@@ -107,6 +110,7 @@
 >Hidden Gem: cashew (make fresh cashew paste)!
 
 ## Foie Gras
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Foie-Gras.webp">
 
 >Has to be milk soaked to remove the bloody smell.
 >
