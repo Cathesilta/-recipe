@@ -34,6 +34,8 @@ Will not include any I haven't made.
 >Must use medium to high heat to scramble eggs, otherwise the eggs will not form nicely.
 >
 >Letthe scrambled eggs absorb the tomato juice before well-done.
+>
+>Some prefers to pick up the scrambled eggs before adding the tomatoes. I just add tomatoes when eggs are slightly formed. Doesn't matter much.
 
 ## Omelet Rice
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/omelet-rice-2031329-hero-01-a7e0906fd73b49739f28717d01e6cc33.jpg">
