@@ -35,7 +35,7 @@ Will not include any I haven't made.
 >
 >Letthe scrambled eggs absorb the tomato juice before well-done.
 >
->Some prefers to pick up the scrambled eggs before adding the tomatoes. I just add tomatoes when eggs are slightly formed. Doesn't matter much.
+>Some prefer to remove the medium scrambled eggs before adding raw tomatoes (then add the eggs back when tomatoes are about barely cooked). I just don't remove the scrambled eggs. Doesn't matter much.
 
 ## Omelet Rice
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/omelet-rice-2031329-hero-01-a7e0906fd73b49739f28717d01e6cc33.jpg">
@@ -79,6 +79,9 @@ Will not include any I haven't made.
 <img width="130" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Qingjiaorousi.jpg">
 
 >I love to use shredded beef because of the aroma of beef.
+
+
+## Pan-fried steak
 
 
 ## 茶漬け
