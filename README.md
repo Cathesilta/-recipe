@@ -27,3 +27,15 @@
 
 ## Yakiniku
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Yakiniku.webp">
+
+## spaghetti
+
+>Adding oil and salt to enhance the boiling point, otherwise the noodles won't be soft easily. 8 Mins.
+
+## curry
+
+>I think the key mate for curry is coconut milk.
+
+## pancake
+
+>Don't you forget maple syrup!
