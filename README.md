@@ -51,6 +51,7 @@
 >Potato paste is a key mate.
 
 ## Sushi
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/sushi.webp">
 
 >Sushi's key ingredient is actually the sushi rice (add sushi rice vinegar and sugar after the rice cooked).
 >
@@ -84,16 +85,21 @@
 >Xiaozhizhu told me that, Japanese didn't have barbeque meat. They must learn and improved it from Korean barbeque.
 
 ## spaghetti
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Spaghetti-with-Meat-Sauce-Recipe-1-1200.jpg">
 
 >Adding oil and salt to enhance the boiling point, otherwise the noodles won't be soft easily. 8 Mins.
 
 ## curry
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/jp-curry.jpg">
 
 >I think the key mate for curry is coconut milk.
 >
 >Smart move: when you buy curry paste, it made with pre-cooked ingredients. Add some fresh spices (fresh green pepper, garlic, ginger， etc) to enhance the taste fresher.
+>
+>Hidden Gem: cashew (make fresh cashew paste)!
 
 ## pancake
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/pancake.jpg">
 
 >Every pan has a different thermal conductivity, you should test when is the best time to flip!
 >
