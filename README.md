@@ -82,7 +82,7 @@ Will not include any I haven't made.
 
 
 ## Pan-fried steak
-<img width="130" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/pan-fried-steak.jpg">
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/pan-fried-steak.jpg">
 
 >Fry it until medium Rare.
 >
