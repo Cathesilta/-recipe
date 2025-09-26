@@ -108,7 +108,13 @@
 
 ## Foie Gras
 
+>Has to be milk soaked to remove the bloody smell.
+>
+>Can't be well-done—the center must remain pink to stay flavorful.
+
 ## Butter-fried Matsutake
+
+>I always use Matsutake form Garzê and Anchor butter. Other ingredients cannot guarantee the godlike taste!
 
 ## Pancake
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/pancake.jpg">
@@ -116,3 +122,10 @@
 >Every pan has a different thermal conductivity, you should test when is the best time to flip!
 >
 >Don't you forget maple syrup!
+
+
+>Below is my Mom's recipe, I can't cook it well. 
+>
+>Note here whenever I order in mom's home.
+
+## Spicy Rabbit
