@@ -20,32 +20,39 @@
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/tom-yum-goong-blog.jpg">
 
 >Nam Prik Pao (Thai chili paste) with soup of lemongrass, lime leaves, galangal, and chili pepper.
+>
 >Best mate: prawn.
 
 ## laksa
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Curry_laksa.jpg">
 
 >IMHO, this is tom yum goong with starch, from potatoes, yams, etc.
+>
+>Key mate: fried tofu, it absorbs the soup, very satisfying when you bite.
 
 ## Borscht
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Borscht.webp">
 
->Boil beetroot with rind to get rid off geosmin (the earthy taste). 
+>Boil beetroot with rind to get rid off geosmin (the earthy taste).
+>
 >Potato paste is a key mate.
 
 ## 茶漬け
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Sake_chazuke_by_matsukawa1971.jpg">
 
 >Kelp has too high iodine content, I only add Bonito Flakes(鰹節), boiling in hot water for 10 mins.
+>
 >Adding broth to enhance the flavor.
 
 ## 牛丼(Gyūdon)
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Gyudon.webp">
 
->Hot spring egg: 12 mins in water with 4/5 100℃ water and 1/5 20℃ water.
+>The Key mate is Hot spring egg: put the room temperature eggs with shell in hot water with 4/5 100℃ water and 1/5 20℃ water for 12 mins.
 
 ## Yakiniku
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Yakiniku.webp">
+
+>Xiaozhizhu told me that, Japanese didn't have barbeque meat. They must learn and improved it from Korean barbeque.
 
 ## spaghetti
 
@@ -54,7 +61,11 @@
 ## curry
 
 >I think the key mate for curry is coconut milk.
+>
+>Smart move: when you buy curry paste, it made with pre-cooked ingredients. Add some fresh spices (fresh green pepper, garlic, ginger， etc) to enhance the taste fresher.
 
 ## pancake
 
+>Every pan has a different thermal conductivity, you should test when is the best time to flip!
+>
 >Don't you forget maple syrup!
