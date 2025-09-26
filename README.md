@@ -1,7 +1,7 @@
 > This recipe reflects a highly personal taste, primarily intended as an archive and reminder.
 > But in a case anyone would be interested, I'm still adding some instructions.
 >
-> Will not include any I haven't maken.
+> Will not include any I haven't made.
 
 
 ## チャーシュー(Japanese Chashu)
