@@ -8,4 +8,4 @@
 
 ## tom yum goong
 
-<img height="119" width="300" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/tom-yum-goong-blog.jpg" width="256">
+<img height="119" width="300" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/tom-yum-goong-blog.jpg" height="128" width="256">
