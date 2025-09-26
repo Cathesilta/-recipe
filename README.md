@@ -5,6 +5,7 @@
 
 
 ## Japanese Chashu
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Chashu.jpg">
 
 >First boil pork belly in water with green onions, ginger, and garlic. For 10 cm thick pork, 90 mins.
 >
