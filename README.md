@@ -39,6 +39,13 @@
 >
 >Potato paste is a key mate.
 
+## Sushi
+
+>Sushi's key ingredient is actually the sushi rice (Sushi rice vinegar and sugar).
+>
+>I still feel hard to cut (the rice is sticky) with my wide-body knife...
+
+
 ## 茶漬け
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Sake_chazuke_by_matsukawa1971.jpg">
 
