@@ -41,9 +41,11 @@
 
 ## Sushi
 
->Sushi's key ingredient is actually the sushi rice (Sushi rice vinegar and sugar).
+>Sushi's key ingredient is actually the sushi rice (add sushi rice vinegar and sugar after the rice cooked).
 >
 >I still feel hard to cut (the rice is sticky) with my wide-body knife...
+>
+>Add anything you want, cucumber and mustard is the simpliest edible form. 
 
 
 ## 茶漬け
