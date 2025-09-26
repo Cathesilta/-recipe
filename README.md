@@ -5,25 +5,25 @@
 
 
 ## Ramen
-<img height="119" width="300" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Ramen.jpg" height="128" width="256">
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Ramen.jpg">
 
 ## Omelet rice
-<img height="119" width="300" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/omelet-rice-2031329-hero-01-a7e0906fd73b49739f28717d01e6cc33.jpg" width="256">
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/omelet-rice-2031329-hero-01-a7e0906fd73b49739f28717d01e6cc33.jpg">
 
 ## tom yum goong
-<img height="119" width="300" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/tom-yum-goong-blog.jpg" height="128" width="256">
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/tom-yum-goong-blog.jpg">
 
 ## laksa
-<img height="119" width="300" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Curry_laksa.jpg" height="128" width="256">
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Curry_laksa.jpg">
 
 ## Borscht
-<img height="119" width="300" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Borscht.webp" width="256">
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Borscht.webp">
 
 ## 茶漬け
-<img height="119" width="300" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Sake_chazuke_by_matsukawa1971.jpg" height="128" width="256">
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Sake_chazuke_by_matsukawa1971.jpg">
 
 ## 牛丼(Gyūdon)
-<img height="119" width="300" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Gyudon.webp" height="128" width="256">
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Gyudon.webp">
 
 ## Yakiniku
-<img height="119" width="300" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Yakiniku.webp" height="128" width="256">
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Yakiniku.webp">
