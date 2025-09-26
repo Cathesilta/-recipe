@@ -29,6 +29,10 @@ Will not include any I haven't made.
 ## Stir-fried Tomato and Scrambled Eggs
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Fanqiechaodan.jpg">
 
+>Picking a juicy, crispy tomato is the key.
+>
+>Must use medium to high heat to scramble eggs, otherwise the eggs will not form nicely.
+
 ## Omelet Rice
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/omelet-rice-2031329-hero-01-a7e0906fd73b49739f28717d01e6cc33.jpg">
 
