@@ -14,7 +14,7 @@
 ## Omelet rice
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/omelet-rice-2031329-hero-01-a7e0906fd73b49739f28717d01e6cc33.jpg">
 
->Tomate sauce to add sour taste for appetizing.
+>Tomato sauce to add sour taste for appetizing.
 
 ## tom yum goong
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/tom-yum-goong-blog.jpg">
