@@ -51,13 +51,20 @@
 ## 茶漬け
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Sake_chazuke_by_matsukawa1971.jpg">
 
+>Genmaicha is good enough, pretty tender.
+>
 >Kelp has too high iodine content, I only add Bonito Flakes(鰹節), boiling in hot water for 10 mins.
 >
 >Adding broth to enhance the flavor.
 
+
 ## 牛丼(Gyūdon)
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Gyudon.webp">
 
+>Boil beef slices in water with Koikuchi Shoyu (Japanese dark soy sauce) and mirin.
+>
+>Myoga (Japanese ginger) for appetizing.
+>
 >The Key mate is Hot spring egg: put the room temperature eggs with shell in hot water with 4/5 100℃ water and 1/5 20℃ water for 12 mins.
 
 ## Yakiniku
