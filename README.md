@@ -124,8 +124,5 @@
 >Don't you forget maple syrup!
 
 
->Below is my Mom's recipe, I can't cook it well. 
->
->Note here whenever I order in mom's home.
 
-## Spicy Rabbit
+## **Spicy Rabbit
