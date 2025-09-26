@@ -31,7 +31,7 @@ Will not include any I haven't made.
 
 >Picking a juicy and crispy tomato is the key.
 >
->Must use medium to high heat to scramble eggs, otherwise the eggs will not form nicely.
+>Must use medium to high heat to scramble eggs, otherwise the oil smell will mix into the eggs.
 >
 >Letthe scrambled eggs absorb the tomato juice before well-done.
 >
