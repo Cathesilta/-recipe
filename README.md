@@ -4,6 +4,16 @@
 > Will not include any I haven't maken.
 
 
+## Japanese Chashu
+
+>First boil pork belly in water with green onions, ginger, and garlic. For 10 cm thick pork, 90 mins.
+>
+>Then fry it to make the golden surface
+>
+>Then boil it in water with the paste made by mix of apple, onions, garlic, Japanese soy sauce, and mirin. For 10 cm thick pork, more than 30 mins.
+>
+>Roll it before boiling to make the texture that falls apart at the first bite.
+
 ## Ramen
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Ramen.jpg">
 
