@@ -8,7 +8,8 @@
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Ramen.jpg">
 
 >The prime taste is from salty soup base and Japanese Chashu.
->Tonkotsu is not more dilicious, it just looks awesome but with high purine, careful!
+>
+>Tonkotsu doesn't make significant difference for deliciousness, it just looks awesome but with high purine, careful!
 
 ## Omelet rice
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/omelet-rice-2031329-hero-01-a7e0906fd73b49739f28717d01e6cc33.jpg">
