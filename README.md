@@ -11,7 +11,7 @@
 >
 >Tonkotsu doesn't make significant difference for deliciousness, it just looks awesome but with high purine, careful!
 >
->Sesame, fungus, Pickled scallions in ice water, メンマ(I see this in every Ramen in Asahikawa).
+>Sesame, fungus, Pickled scallions in ice water, メンマ(I see this in every Ramen in Asahikawa). 鳴門巻き? Doesn't have to, just like a decoration.
 
 ## Omelet rice
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/omelet-rice-2031329-hero-01-a7e0906fd73b49739f28717d01e6cc33.jpg">
