@@ -26,10 +26,10 @@ Will not include any I haven't made.
 >
 >Sesame, fungus, Pickled scallions in ice water, メンマ(I see this in every Ramen in Asahikawa). 鳴門巻き? Doesn't have to, just like a decoration.
 
-## Stir-fried Tomato and Scrambled Eggs
+## Scrambled Eggs and Stir-fried Tomato
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Fanqiechaodan.jpg">
 
->Picking a juicy, crispy tomato is the key.
+>Picking a juicy and crispy tomato is the key.
 >
 >Must use medium to high heat to scramble eggs, otherwise the eggs will not form nicely.
 >
