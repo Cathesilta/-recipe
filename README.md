@@ -51,7 +51,7 @@
 >Potato paste is a key mate.
 
 ## Sushi
-<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/sushi.webp">
+<img width="130" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/sushi.webp">
 
 >Sushi's key ingredient is actually the sushi rice (add sushi rice vinegar and sugar after the rice cooked).
 >
@@ -71,7 +71,7 @@
 
 
 ## 牛丼(Gyūdon)
-<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Gyudon.webp">
+<img width="130" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Gyudon.webp">
 
 >Boil beef slices in water with Koikuchi Shoyu (Japanese dark soy sauce) and mirin.
 >
@@ -80,7 +80,7 @@
 >The Key mate is Hot spring egg: put the room temperature eggs with shell in hot water with 4/5 100℃ water and 1/5 20℃ water for 12 mins.
 
 ## Yakiniku
-<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Yakiniku.webp">
+<img width="130" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Yakiniku.webp">
 
 >Xiaozhizhu told me that, Japanese didn't have barbeque meat. They must learn and improved it from Korean barbeque.
 
@@ -90,7 +90,7 @@
 >Adding oil and salt to enhance the boiling point, otherwise the noodles won't be soft easily. 8 Mins.
 
 ## curry
-<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/jp-curry.jpg">
+<img width="130" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/jp-curry.jpg">
 
 >I think the key mate for curry is coconut milk.
 >
