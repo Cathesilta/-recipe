@@ -16,6 +16,9 @@
 ## laksa
 <img height="119" width="300" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Curry_laksa.jpg" height="128" width="256">
 
+## Borscht
+<img height="119" width="300" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Borscht.webp" width="256">
+
 ## 茶漬け
 <img height="119" width="300" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Sake_chazuke_by_matsukawa1971.jpg" height="128" width="256">
 
