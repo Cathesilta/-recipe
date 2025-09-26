@@ -82,6 +82,13 @@ Will not include any I haven't made.
 
 
 ## Pan-fried steak
+<img width="130" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/pan-fried-steak.jpg">
+
+>Fry it until medium Rare.
+>
+>Seal the steak with a steak cover or plastic wrap and simmer until medium or medium well.
+>
+>Should remain pink in the center. Just a little bit of rawness is very delicious.
 
 
 ## 茶漬け
