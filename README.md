@@ -7,23 +7,41 @@
 ## Ramen
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Ramen.jpg">
 
+>The prime taste is from salty soup base and Japanese Chashu.
+>Tonkotsu is not more dilicious, it just looks awesome but with high purine, careful!
+
 ## Omelet rice
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/omelet-rice-2031329-hero-01-a7e0906fd73b49739f28717d01e6cc33.jpg">
+
+>Tomate sauce to add sour taste for appetizing.
 
 ## tom yum goong
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/tom-yum-goong-blog.jpg">
 
+>Nam Prik Pao (Thai chili paste) with soup of lemongrass, lime leaves, galangal, and chili pepper.
+>Best mate: prawn.
+
 ## laksa
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Curry_laksa.jpg">
+
+>IMHO, this is tom yum goong with starch, from potatoes, yams, etc.
 
 ## Borscht
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Borscht.webp">
 
+>Boil beetroot with rind to get rid off geosmin (the earthy taste). 
+>Potato paste is a key mate.
+
 ## 茶漬け
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Sake_chazuke_by_matsukawa1971.jpg">
 
+>Kelp has too high iodine content, I only add Bonito Flakes(鰹節), boiling in hot water for 10 mins.
+>Adding broth to enhance the flavor.
+
 ## 牛丼(Gyūdon)
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Gyudon.webp">
+
+>Hot spring egg: 12 mins in water with 4/5 100℃ water and 1/5 20℃ water.
 
 ## Yakiniku
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Yakiniku.webp">
