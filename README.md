@@ -1,3 +1,6 @@
+> This recipe reflects a highly personal taste, primarily intended as an archive and reminder.
+> But in a case anyone would be interested, I'm still adding some instructions.
+
 
 ## Ramen
 <img height="119" width="300" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Ramen.jpg" height="128" width="256">
