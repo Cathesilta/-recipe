@@ -6,6 +6,15 @@ Will not include any I haven't made.
 --09/26/2025
 
 
+## Vegetable Soup
+
+<img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Harvard-Vegetable-Soup.jpg">
+
+>Ingredients like, onions, cabbage, carrots, tomatoes, shiitake mushrooms, seafood mushrooms, luffa, seaweed, etc. Choose any four.
+>
+>Think any vegetables. Extract sweet and umami flavors from vegetables.
+
+
 ## チャーシュー(Japanese Chashu)
 <img width="200" src="https://github.com/Cathesilta/-recipe/blob/main/src/img/Chashu.jpg">
 
